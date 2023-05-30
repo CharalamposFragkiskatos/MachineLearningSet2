@@ -1,3 +1,4 @@
+% Ylopoihsh provlimatwn 2.1 kai 2.2
 %% Problem 1
 clear all;
 load('data21.mat'); 
